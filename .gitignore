@@ -1,0 +1,8 @@
+# executables
+test_atan
+
+cmake-build-debug
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
